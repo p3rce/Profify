@@ -1,0 +1,562 @@
+[14-Feb-2020 21:13:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:13:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:15:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:16:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:23:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:23:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:23:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:23:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:27:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:28:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:32:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:41:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:41:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:41:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:41:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:42:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:27 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:29 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:30 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:31 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:38 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:39 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:40 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:40 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:40 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:41 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:43:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:43:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:43:51 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:43:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:23 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:24 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:43 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:44 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:49 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:49 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:50 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:50 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:44:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:45:18 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:45:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:14 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:39 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:40 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:40 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:46:56 UTC] PHP Notice:  Undefined variable: Seadude2468 in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:46:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:01 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:48:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:12 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:12 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:14 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:14 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:16 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:16 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:26 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:26 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:27 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:27 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:31 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:33 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:50:54 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:52:55 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:02 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:53:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:53:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:53:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:53:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:53:16 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 13
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 15
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Feb-2020 21:55:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[14-Feb-2020 21:55:39 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin'@'localhost' to database 'dryad_db' in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[15-Feb-2020 02:37:24 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[15-Feb-2020 02:37:24 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[19-Feb-2020 05:39:58 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[19-Feb-2020 05:39:58 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[19-Feb-2020 07:47:24 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[19-Feb-2020 07:47:24 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[24-Feb-2020 00:42:15 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[24-Feb-2020 00:42:15 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[25-Feb-2020 04:05:48 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[25-Feb-2020 04:05:48 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[05-Mar-2020 00:56:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[05-Mar-2020 02:04:46 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[05-Mar-2020 02:04:46 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[18-Mar-2020 19:36:14 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[18-Mar-2020 19:36:14 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[15-May-2020 07:17:24 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[15-May-2020 07:17:24 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
+[04-Nov-2020 02:08:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[04-Nov-2020 02:08:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[05-Nov-2020 00:22:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[05-Nov-2020 00:22:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[05-Nov-2020 00:22:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[05-Nov-2020 00:22:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[05-Nov-2020 00:22:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[05-Nov-2020 00:22:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/p1gdv6sfti44/public_html/inc/config.php on line 3
+[20-Nov-2020 05:53:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[20-Nov-2020 05:53:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/p1gdv6sfti44/public_html/isUsernameAvaliable.php on line 17
+[14-Jan-2021 16:28:24 UTC] PHP Notice:  Undefined variable: row in /home/p1gdv6sfti44/public_html/logout.php on line 20
+[14-Jan-2021 16:28:24 UTC] PHP Notice:  Undefined index: sessionID in /home/p1gdv6sfti44/public_html/logout.php on line 21
