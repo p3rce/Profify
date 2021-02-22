@@ -384,7 +384,7 @@ function getUserBio(){
 
 
 
-    //replace every @ and put in a link and also how the fuck does this even work i copy and pasted this shit 
+    //replace every @ and put in a link
 
     echo preg_replace('/(^|\s)@([\w_\.]+)/', '$1<a style="text-decoration:none;text-transform:lowercase;" title="@$2" href="$2">@$2</a>', $str);
 
