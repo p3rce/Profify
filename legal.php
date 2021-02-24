@@ -5,9 +5,6 @@ include('inc/header.php');
 
 
 
-
-
-
 ?>
 <!DOCTYPE html>
 <html>
