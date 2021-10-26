@@ -117,7 +117,7 @@ if(isset($_GET['username'])){
   function timesReported(){
     global $con;
     global $row;
-    $maxTimes = 1; // amount of times it has to be reported to freeze account
+    $maxTimes = 5; // amount of times it has to be reported to freeze account
     $userInQuestion = $row['id'];
 
 
